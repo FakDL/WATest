@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1005988958380",
+    "project_id": "watest-96781",
+    "storage_bucket": "watest-96781.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005988958380:android:aacd7b156905322e2b0f09",
+        "android_client_info": {
+          "package_name": "com.example.watest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1005988958380-hvr9o80cjprrfa8hjpm3btq0h7trr94r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.watest",
+            "certificate_hash": "938922fc4404e25107658281c89645747f57c859"
+          }
+        },
+        {
+          "client_id": "1005988958380-sl8vr1tukpgjvsa7g6538vj1r5r5gugp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2oxt_Y6fW7f05qJ9f3wf746sI2-rLIJc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1005988958380-sl8vr1tukpgjvsa7g6538vj1r5r5gugp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

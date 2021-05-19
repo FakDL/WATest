@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WATest</string>
+    <string name="main_nav_host">MainNavHost</string>
+    <string name="category">Category: %1$s</string>
+    <string name="region">Region: %1$s</string>
+    <string name="description">Description: \n%1$s</string>
+    <string name="city">City: %1$s</string>
+</resources>
